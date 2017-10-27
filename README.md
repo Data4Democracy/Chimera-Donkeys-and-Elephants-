@@ -38,6 +38,7 @@ _Note: Create dataset for project in data.world and link it here._
 ` @funder Congratulations! Who knew the #NRA were such snowflakes? ❄️`
 ` RT @mcevasco: These #NRA ads are simply un-American. The road to authoritarianism is paved with garbage like this. https://t.co/QtpLcPNtip`
 These tweets may look liberal, but they are using conservative methods to present their point therefore this would be labled **C**.
+* read the background information on the Moral Foundations below:
 
 
 #### The 6 Moral Foundations
