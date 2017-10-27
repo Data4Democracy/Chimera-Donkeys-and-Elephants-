@@ -6,12 +6,12 @@
 We are typing the language used in social media posts as liberal or conservative approaches based on Jonathan Haidt's work on Moral Foundations. 
 
 **Project Lead:**  
-@astrid
+[@astrid](https://datafordemocracy.slack.com/team/U76FVAY31)
 
 **Maintainers (people with write access):**
-* @astrid
+* [@astrid](https://datafordemocracy.slack.com/team/U76FVAY31)
 * @becky
-* @betsy
+
 
 **Data:** [https://data.world/data4democracy/[project-name]](link)   
 _Note: Create dataset for project in data.world and link it here._
