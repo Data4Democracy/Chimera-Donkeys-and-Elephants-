@@ -31,7 +31,13 @@ _Note: Create dataset for project in data.world and link it here._
 * updating spreasheets
 * Theory of Moral Foundations
 
-
+### Directions
+* read through tweets in the data set
+* code each tweet with L (liberal), C (conservative), NA (not applicable, doesn't show any persuasive language)
+* make sure to code language in the tweet, and not the political leaning ex.<br>
+` @funder Congratulations! Who knew the #NRA were such snowflakes? ❄️`
+` RT @mcevasco: These #NRA ads are simply un-American. The road to authoritarianism is paved with garbage like this. https://t.co/QtpLcPNtip`
+These tweets may look liberal, but they are using conservative methods to present their point therefore this would be labled **C**.
 
 
 #### The 6 Moral Foundations
